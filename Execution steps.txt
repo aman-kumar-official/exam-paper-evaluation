@@ -1,0 +1,32 @@
+Online Exam Auto-Evaluator with AI Detection
+
+1. Software Requirements
+Programming Language - Python 3.x
+IDE / Editor - VS Code
+Framework - Streamlit
+Operating System - Windows / Linux / macOS
+
+2. Software Packages / Libraries Used
+streamlit
+numpy
+pandas
+scikit-learn
+sentence-transformers
+nltk
+transformers
+rapidfuzz
+re
+string
+datetime
+warnings
+
+3. Hardware Requirements
+Processor: Minimum Intel i3 or equivalent
+RAM: Minimum 4 GB (8 GB recommended)
+Storage: Minimum 1 GB free space
+Internet: Required (for downloading models and libraries)
+GPU: Not required (runs on CPU)
+
+4. Execution steps
+Step 1: pip install -r requirements.txt
+Step 2: streamlit run app.py
